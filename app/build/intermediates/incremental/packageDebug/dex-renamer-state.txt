@@ -1,0 +1,7 @@
+#Thu Oct 13 20:33:10 MSK 2016
+base.0=D\:\\Programming\\MySolarSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d0a3b23d5c69a4451d4fd531e91889543f07aa7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Programming\\MySolarSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2104182940a47b41ef4b91df6e2b41cc24971be3\\classes.dex
+base.1=D\:\\Programming\\MySolarSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2104182940a47b41ef4b91df6e2b41cc24971be3
+file.0=D\:\\Programming\\MySolarSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9d0a3b23d5c69a4451d4fd531e91889543f07aa7\\classes.dex
